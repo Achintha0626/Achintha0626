@@ -20,7 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/achintha prabashwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achintha prabashwara" height="30" width="40" /></a>
-<a href="https://fb.com/achintha prabaswara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achintha prabaswara" height="30" width="40" /></a>
+<a href="https://www.facebook.com/achintha.prabaswara.9?mibextid=LQQJ4d" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achintha prabaswara" height="30" width="40" />
+</a>
+
 <a href="https://instagram.com/achintha0626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achintha0626" height="30" width="40" /></a>
 </p>
 
